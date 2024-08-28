@@ -17,7 +17,7 @@
 
 ## 安装
 ~~~
-composer require topthink/think-cache
+composer require ayhome/think-cache
 ~~~
 
 ## 用法：
